@@ -65,7 +65,7 @@ function MainContent() {
       </div>
 
       <footer>
-        <p className="flex items-center justify-center mt-6">Copyright © {new Date().getFullYear()}, design by: Muhammad Nanda
+        <p className="flex items-center justify-center my-6">Copyright © {new Date().getFullYear()}, design by: Muhammad Nanda
             Riono</p>
       </footer>
     </div>
